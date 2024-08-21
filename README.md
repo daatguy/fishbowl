@@ -5,3 +5,7 @@
 After 22:00, the fish falls alseep:
 
 ![image](https://github.com/user-attachments/assets/71811729-2308-4e8e-a031-41b52739cead)
+
+Potential Todos:
+- Color !?
+- Arg concatenation for message specification without quotes
